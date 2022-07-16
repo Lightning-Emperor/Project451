@@ -1,2 +1,3 @@
-console.log("We are OG");
-console.log("The OG gang");
+let a=1;
+let b=2;
+console.log(a+b);
